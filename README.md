@@ -1,6 +1,6 @@
 ## About
 
-I’m Eakempreet (Eakem). I build useful things and focus on solving real problems with clarity and intent.
+I’m Eakempreet. I build useful things and focus on solving real problems with clarity and intent.
 
 ## Focus
 
