@@ -1,6 +1,6 @@
 ## About
 
-Hi, I’m Eakempreet (Eakem).  
+Hi, I’m Eakempreet  
 I like building useful things and understanding problems deeply before solving them. I care about clarity, outcomes, and systems that actually work in the real world.
 
 ## Direction
