@@ -14,23 +14,16 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-            token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-            user: Eakempreet
-            template: classic
-            base: repositories, metadata
+          user: Eakempreet
+          template: classic
+          base: repositories, metadata
 
+          plugin_releases: yes
+          plugin_releases_limit: 5
 
-            plugin_releases: yes
-            plugin_releases_limit: 5
-            plugin_releases_sections: repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
-            plugin_isocalendar: yes
-            plugin_isocalendar_duration: half-year
-
-            plugin_activity: yes
-            plugin_activity_limit: 3
-            plugin_activity_days: 14
-
-            config_timezone: Asia/Kolkata
-
+          config_timezone: Asia/Kolkata
