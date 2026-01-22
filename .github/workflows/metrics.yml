@@ -23,9 +23,4 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          plugin_activity: yes
-          plugin_activity_limit: 3
-          plugin_activity_days: 14
-          plugin_activity_filter: issue, pr
-
           config_timezone: Asia/Kolkata
