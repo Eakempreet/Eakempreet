@@ -1,16 +1,31 @@
-with:
-  token: ${{ secrets.GITHUB_TOKEN }}
+name: Metrics
 
-  user: Eakempreet
-  template: classic
-  base: repositories
+permissions:
+  contents: write
 
-  plugin_isocalendar: yes
-  plugin_isocalendar_duration: half-year
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
 
-  plugin_activity: yes
-  plugin_activity_limit: 3
-  plugin_activity_days: 14
-  plugin_activity_filter: issue, pr
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-  config_timezone: Asia/Kolkata
+          user: Eakempreet
+          template: classic
+          base: repositories
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          plugin_activity: yes
+          plugin_activity_limit: 3
+          plugin_activity_days: 14
+          plugin_activity_filter: issue, pr
+
+          config_timezone: Asia/Kolkata
