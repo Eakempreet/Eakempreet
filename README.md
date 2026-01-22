@@ -30,7 +30,7 @@ https://github.com/Eakempreet/smart-file-manager/releases/latest
 
 ---
 
-Ongoing work and consistency — shown below.
+Ongoing work and consistency, shown below.
 
 <p align="center">
   <img src="./github-metrics.svg" />
