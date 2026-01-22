@@ -12,7 +12,29 @@ I work across C++, Python, and Java, focusing on systems thinking, fundamentals,
 
 ## Mindset
 
-I value ownership, decision making, and execution. If something can be built better, I’d rather fix it than ignore it.
+I value ownership, decision making, and execution.
+If something can be built better, I’d rather fix it than ignore it.
+
+---
+
+## Projects
+
+- **Smart File Manager** — a practical desktop tool designed to handle files reliably and safely.  
+  https://github.com/Eakempreet/smart-file-manager
+
+- **Time Joke App** — a lightweight desktop app blending utility with simplicity.  
+  https://github.com/Eakempreet/time-joke-app
+
+**Latest release:**  
+https://github.com/Eakempreet/smart-file-manager/releases/latest
+
+---
+
+Ongoing work and consistency — shown below.
+
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
 
 ---
 
@@ -20,16 +42,3 @@ I value ownership, decision making, and execution. If something can be built bet
 
 LinkedIn  
 https://www.linkedin.com/in/eakempreetsingh
-
----
-
-![Release](https://img.shields.io/github/v/release/Eakempreet/smart-file-manager?style=flat-square)
-
-Currently shipping: **Smart File Manager (Windows)**  
-https://github.com/Eakempreet/smart-file-manager/releases/latest
-
-Ongoing work and consistency — shown below.
-
-<p align="center">
-  <img src="./github-metrics.svg" />
-</p>
