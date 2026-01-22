@@ -1,11 +1,7 @@
 name: Metrics
-
-permissions:
-  contents: write
-
 on:
   schedule:
-    - cron: "0 2 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,16 +10,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-
+          token: ${{ secrets.METRICS_TOKEN }}
           user: Eakempreet
-          template: classic
           base: repositories, metadata
-
           plugin_releases: yes
-          plugin_releases_limit: 5
-
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
-          config_timezone: Asia/Kolkata
