@@ -6,7 +6,7 @@ I’m Eakempreet. I build useful things and focus on solving real problems with 
 
 ## Focus
 
-I work with C++, Python, and Java, building strong fundamentals while moving toward intelligent systems with real-world impact.
+I work across C++, Python, and Java, focusing on systems thinking, fundamentals, and building toward intelligent, real-world software.
 
 ---
 
@@ -22,6 +22,8 @@ LinkedIn
 https://www.linkedin.com/in/eakempreetsingh
 
 ---
+
+![Release](https://img.shields.io/github/v/release/Eakempreet/smart-file-manager?style=flat-square)
 
 Currently shipping: **Smart File Manager (Windows)**  
 https://github.com/Eakempreet/smart-file-manager/releases/latest
