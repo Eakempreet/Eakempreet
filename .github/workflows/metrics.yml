@@ -18,10 +18,12 @@ jobs:
 
             user: Eakempreet
             template: classic
-            base: repositories
+            base: repositories, metadata
+
 
             plugin_releases: yes
             plugin_releases_limit: 5
+            plugin_releases_sections: repositories
 
             plugin_isocalendar: yes
             plugin_isocalendar_duration: half-year
