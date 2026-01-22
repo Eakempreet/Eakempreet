@@ -15,7 +15,8 @@ I value ownership, decision making, and execution. If something can be built bet
 LinkedIn  
 https://www.linkedin.com/in/eakempreetsingh
 
-<img src="./github-metrics.svg?v=4" alt="Metrics" />
+<img src="./github-metrics.svg?v=5" alt="Metrics" />
+
 
 
 
