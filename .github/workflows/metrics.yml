@@ -23,4 +23,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
+          plugin_releases: yes
+          plugin_releases_limit: 3
+
           config_timezone: Asia/Kolkata
