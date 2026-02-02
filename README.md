@@ -22,6 +22,9 @@ If something can be built better, I’d rather fix it than ignore it.
 - **Smart File Manager** — a practical desktop tool designed to handle files reliably and safely.  
   https://github.com/Eakempreet/smart-file-manager
 
+- **SPROUT — Smart Plant Monitoring & Protection System** — an IoT-based system designed to monitor plant conditions and reduce damage through local sensing and cloud visibility.  
+  https://github.com/Eakempreet/SPROUT-smart-plant-monitor
+
 - **Time Joke App** — a lightweight desktop app blending utility with simplicity.  
   https://github.com/Eakempreet/time-joke-app
 
