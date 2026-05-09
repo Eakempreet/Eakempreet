@@ -1,19 +1,16 @@
 ## About
-
-I’m Eakempreet. I build useful things and focus on solving real problems with clarity and intent.
+I'm Eakempreet. I build things that solve real problems — and I care about doing it properly, not just making it work.
 
 ---
 
 ## Focus
-
-I work across C++, Python, and Java, focusing on systems thinking, fundamentals, and building toward intelligent, real-world software.
+I work across Python, C++, and Java, focusing on machine learning, systems thinking, and building toward intelligent, real-world software.
 
 ---
 
 ## Mindset
-
 I value ownership, decision making, and execution.
-If something can be built better, I’d rather fix it than ignore it.
+If something can be built better, I'd rather fix it than ignore it.
 
 ---
 
