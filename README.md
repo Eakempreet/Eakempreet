@@ -1,5 +1,5 @@
 ## About
-I'm Eakempreet. I build things that solve real problems — and I care about doing it properly, not just making it work.
+I'm Eakempreet. I build things that solve real problems, and I care about doing it properly, not just making it work.
 
 ---
 
