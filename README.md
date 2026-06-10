@@ -1,36 +1,67 @@
 ## About
+
 I'm Eakempreet. I build things that solve real problems, and I care about doing it properly, not just making it work.
 
 ---
 
 ## Focus
-I work across Python, C++, and Java, focusing on machine learning, systems thinking, and building toward intelligent, real-world software.
 
----
+Currently focused on:
 
-## Mindset
-I value ownership, decision making, and execution.
-If something can be built better, I'd rather fix it than ignore it.
+* Machine learning
+* Computer vision
+* Backend systems
+* End to end ML pipelines
+* DSA
+* C++
+* Python
 
 ---
 
 ## Projects
 
-- **Smart File Manager** — a practical desktop tool designed to handle files reliably and safely.  
-  https://github.com/Eakempreet/smart-file-manager
+### ATAS - Aerial Threat Assessment System
 
-- **SPROUT — Smart Plant Monitoring & Protection System** — an IoT-based system designed to monitor plant conditions and reduce damage through local sensing and cloud visibility.  
-  https://github.com/Eakempreet/SPROUT-smart-plant-monitor
+An end to end ML threat assessment pipeline inspired by fighter jet warning systems.
 
-- **Time Joke App** — a lightweight desktop app blending utility with simplicity.  
-  https://github.com/Eakempreet/time-joke-app
+Combines aircraft classification, synthetic engagement simulation, threat prediction, and tactical recommendation generation inside a single deployed system.
 
-**Latest release:**  
-https://github.com/Eakempreet/smart-file-manager/releases/latest
+Repository:
+https://github.com/Eakempreet/ATAS_Project
+
+Live demo:
+https://huggingface.co/spaces/Eakempreet/ATAS
 
 ---
 
-Ongoing work and consistency, shown below.
+### Smart File Manager
+
+A desktop file management system focused on reliability, rollback support, and safe file operations.
+
+Repository:
+https://github.com/Eakempreet/smart-file-manager
+
+---
+
+### SPROUT - Smart Plant Response and Observation System for Utility and Tracking
+
+An IoT based monitoring system using ESP8266 sensors and cloud integration to track plant conditions.
+
+Repository:
+https://github.com/Eakempreet/SPROUT-smart-plant-monitor
+
+---
+
+### Time Joke App
+
+A lightweight desktop timer application built around simplicity and usability.
+
+Repository:
+https://github.com/Eakempreet/time-joke-app
+
+---
+
+Ongoing work and consistency shown below.
 
 <p align="center">
   <img src="./github-metrics.svg" />
